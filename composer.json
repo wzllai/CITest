@@ -1,6 +1,6 @@
 {
-	"name" : "wxsdk",
-	"description" : "wei xin sdk.",
+	"name" : "CI test",
+	"description" : "Travis CI Test",
 	"homepage" :  "blog.csdn.net/wzllai",
 	"require": {
    		"php": ">=5.3.10"
